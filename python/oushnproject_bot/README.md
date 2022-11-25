@@ -1,0 +1,1 @@
+# The discord bot which can get data from csgo server
